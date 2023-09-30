@@ -6,7 +6,7 @@ The `Flipper0` contract is an ERC20 token with additional functionalities like b
 
 ## ✨ Features
 
-- **🪙 ERC20 Standard**: Implements the ERC20 token standard, providing basic token functionalities like `transfer`, `approve`, and `balanceOf`.
+- **💰 ERC20 Standard**: Implements the ERC20 token standard, providing basic token functionalities like `transfer`, `approve`, and `balanceOf`.
   
 - **🔥 Burnable**: Allows token holders to destroy their tokens, reducing the total supply.
   
